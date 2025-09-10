@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
+  "projectName": "System Application Tests",
+  "testFolders": [
+    "../../../src/System Application/Test",
+    "../../../src/System Application/Partner Test"
+  ]
+}
